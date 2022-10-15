@@ -1,0 +1,33 @@
+.disorderCards {
+	color: yellow;
+	padding: 10px, 10px;
+	text-align: right;
+	margin: 5px, 5px, 5px, 5px;
+	justify-content: space-around;
+	display: flex;
+}
+
+.root {
+	width: 300px;
+	text-align: left;
+}
+
+.media {
+	height: 140px;
+}
+.tags {
+	padding: 0px 0px !important;
+	text-align: center;
+}
+
+.margind {
+	margin: 10px;
+}
+
+.btn1 {
+	color: aquamarine;
+}
+
+.btn2 {
+	color: deeppink;
+}
